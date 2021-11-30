@@ -20,6 +20,9 @@ El max_depth se utiliza para determinar la La profundidad máxima del árbol est
 no existe una Relacion directa entre los datos y el salario ademas se puede ver que en la matriz de confusion el uncio dato que esta siendo relacionado es salario low por la gran cantidad de veces que este parametro low se repite en la variable de salary.
 ![alt text](https://github.com/Mateo1021/ml-tutorial/tree/master/img/imagen_2021-11-30_015236.png)
 # Identificación de géneros musicales
+
+![alt text](https://github.com/Mateo1021/ml-tutorial/tree/master/img/imagen_2021-11-30_023553.png)
+Al momento de ejecutar estas secciones de codigo me generaba un error que se me hizo realmente imposible de solucionar 
 ## Para el caso binario (jazz and blues vs. soul and reggae) ¿Es posible obtener mejores métricas entrenando un modelo basado en Random Forest?
 ## Escoja otro par de géneros, entrene un conjunto de modelos y documente los resultados del mejor que se haya obtenido.
 ## Para el caso multi-clase, ¿cuál es la clase para la que el modelo más se equivoca? ¿Por qué?
